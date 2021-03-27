@@ -27,6 +27,7 @@ from keras.optimizers import Adam
 from keras.layers import MaxPooling2D
 from keras.preprocessing.image import ImageDataGenerator
 
+#Enter your test and train data here:
 train_dir = r'C:\Users\omkar desai\OneDrive\Desktop\Artificial Inteligence\emotion detection\emotions\train'
 val_dir = r'C:\Users\omkar desai\OneDrive\Desktop\Artificial Inteligence\emotion detection\emotions\test'
 
